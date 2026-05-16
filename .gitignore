@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración local y secretos
+.env
+
+# Archivos generados por TypeScript al compilar
+dist/
+build/
+
+# Archivos del sistema e IDE
+.vscode/
+Thumbs.db
+.DS_Store
